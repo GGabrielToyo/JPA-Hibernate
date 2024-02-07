@@ -18,7 +18,7 @@ public class CadastroProdutos {
         //buscarTodosProdutos();
         //buscarPorNome();
         //buscarPorCategoria();
-        buscarPrecoPorNome(); 
+        buscarPrecoPorNome();
     }
 
     public static void cadastrarProduto(){
